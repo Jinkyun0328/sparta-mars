@@ -1,1 +1,1 @@
-# sparta-mars2
+# sparta-mars
